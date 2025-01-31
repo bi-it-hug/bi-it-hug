@@ -3,11 +3,11 @@
 Hi! I'm **Lorenzo**, a passionate developer with interests in **web development**, **software development**, and **emerging technologies**. Here you'll find my projects that showcase my skills and progress in various areas.
 
 ## 🔧 My Skills
-- **Programming Languages**: Python, JavaScript, C#, HTML, CSS
-- **Web Technologies**: Blazor, React, Node.js, Express
+- **Programming Languages**: C#, Java, Python, JavaScript, HTML, CSS
+- **Web Technologies**: Blazor, React, Node.js
 - **Databases**: MySQL, MongoDB
-- **Frameworks**: Spring Boot, .NET, Angular, Flask
-- **Tools**: Git, Docker, Jenkins, Visual Studio Code
+- **Frameworks**: Spring Boot, .NET
+- **Tools**: Git, Docker, Visual Studio Code
 
 ## 📂 My Projects
 
