@@ -40,4 +40,5 @@ Thanks for stopping by! Feel free to leave feedback or reach out for collaborati
 
 ---
 
+> [!NOTE]
 > **PS**: If you find my profile interesting, feel free to follow for updates on my projects and new work! 🚀
