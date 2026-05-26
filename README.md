@@ -1,6 +1,6 @@
 # Hello There!👋🏻
 
-I’m Lorenzo, a learning Applikationsentwickler based in Switzerland.
+I’m Lorenzo, a learning Software Developer based in Switzerland.
 
 I tinker with code, build projects, and try to make computers do what I want (sometimes they fight back with mysterious exceptions or blue screens).
 
